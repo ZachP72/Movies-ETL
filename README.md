@@ -36,5 +36,6 @@ Now to view that all our dataframes are correct use the .head() method to make s
 18. Set the three variables in Step 17 equal to the function created in Deliverable 1.
 19. Set the wiki_movies_df equal to the wiki_file variable.
 20. Add the columns from wiki_movies_df DataFrame to a list, and confirm that they are the same as this image:
+![image](https://user-images.githubusercontent.com/95777297/181647978-1eba9b4a-d6e9-45dd-8385-1b3f720f2bc4.png)
 
 
